@@ -5,7 +5,7 @@ Tugas Project To Do List - Digitalent Kominfo x Progate - React JS for Web Devel
 
 ## Prerequisite
 
-Sebelum menjalankan project ini, Anda terlebih dahulu meng-install :
+Sebelum menjalankan project ini, Anda terlebih dahulu menginstal :
 
 1. Node.js  
 [https://nodejs.org/en/](https://nodejs.org/en/)  
@@ -21,7 +21,7 @@ Setelah melakukan [prerequisite](#prerequisite) di atas dan clone project ini, i
 
 1. Masuk ke directory project ini, lalu buka terminal.  
 
-2. Ketik perintah `npm install` untuk meng-install modul-modulnya.
+2. Ketik perintah `npm install` untuk menginstal modul-modulnya.
 
 3. `npm start`  
 Untuk menjalankan programnya. Maka secara otomatis akan membuka browser dan menuju ke url [http://localhost:3000](http://localhost:3000)  
